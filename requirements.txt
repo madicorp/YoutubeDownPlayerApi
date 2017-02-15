@@ -1,0 +1,11 @@
+Flask
+Flask-HTTPAuth
+Flask-SQLAlchemy
+Jinja2
+MarkupSafe
+SQLAlchemy
+Werkzeug
+itsdangerous
+passlib
+pyyaml
+pytube
